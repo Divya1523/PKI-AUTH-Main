@@ -1,8 +1,8 @@
 import requests
 import json
 
-STUDENT_ID = "23A91A4418"  # Replace with your actual student ID
-GITHUB_REPO_URL = "https://github.com/23A91A4418/pki-auth-system"  # Your repo URL
+STUDENT_ID = "23A91A61D2"  # Replace with your actual student ID
+GITHUB_REPO_URL = "https://github.com/Divya1523/PKI-AUTH-Main.git"  # Your repo URL
 API_URL = "https://eajeyq4r3zljoq4rpovy2nthda0vtjqf.lambda-url.ap-south-1.on.aws/"
 
 # Read student public key
